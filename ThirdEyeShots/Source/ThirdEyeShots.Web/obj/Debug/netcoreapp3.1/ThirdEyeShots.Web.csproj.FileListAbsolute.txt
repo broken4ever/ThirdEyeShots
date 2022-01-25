@@ -4,6 +4,7 @@ C:\Bro\Personal\Application\ThirdEyeShots\Source\ThirdEyeShots.Web\bin\Debug\net
 C:\Bro\Personal\Application\ThirdEyeShots\Source\ThirdEyeShots.Web\bin\Debug\netcoreapp3.1\ClientApp\e2e\tsconfig.e2e.json
 C:\Bro\Personal\Application\ThirdEyeShots\Source\ThirdEyeShots.Web\bin\Debug\netcoreapp3.1\ClientApp\package-lock.json
 C:\Bro\Personal\Application\ThirdEyeShots\Source\ThirdEyeShots.Web\bin\Debug\netcoreapp3.1\ClientApp\package.json
+C:\Bro\Personal\Application\ThirdEyeShots\Source\ThirdEyeShots.Web\bin\Debug\netcoreapp3.1\ClientApp\proxy.config.json
 C:\Bro\Personal\Application\ThirdEyeShots\Source\ThirdEyeShots.Web\bin\Debug\netcoreapp3.1\ClientApp\src\tsconfig.app.json
 C:\Bro\Personal\Application\ThirdEyeShots\Source\ThirdEyeShots.Web\bin\Debug\netcoreapp3.1\ClientApp\src\tsconfig.spec.json
 C:\Bro\Personal\Application\ThirdEyeShots\Source\ThirdEyeShots.Web\bin\Debug\netcoreapp3.1\ClientApp\src\tslint.json
@@ -17,6 +18,7 @@ C:\Bro\Personal\Application\ThirdEyeShots\Source\ThirdEyeShots.Web\bin\Debug\net
 C:\Bro\Personal\Application\ThirdEyeShots\Source\ThirdEyeShots.Web\bin\Debug\netcoreapp3.1\ThirdEyeShots.Web.pdb
 C:\Bro\Personal\Application\ThirdEyeShots\Source\ThirdEyeShots.Web\bin\Debug\netcoreapp3.1\ThirdEyeShots.Web.Views.dll
 C:\Bro\Personal\Application\ThirdEyeShots\Source\ThirdEyeShots.Web\bin\Debug\netcoreapp3.1\ThirdEyeShots.Web.Views.pdb
+C:\Bro\Personal\Application\ThirdEyeShots\Source\ThirdEyeShots.Web\obj\Debug\netcoreapp3.1\ThirdEyeShots.Web.csprojAssemblyReference.cache
 C:\Bro\Personal\Application\ThirdEyeShots\Source\ThirdEyeShots.Web\obj\Debug\netcoreapp3.1\ThirdEyeShots.Web.AssemblyInfoInputs.cache
 C:\Bro\Personal\Application\ThirdEyeShots\Source\ThirdEyeShots.Web\obj\Debug\netcoreapp3.1\ThirdEyeShots.Web.AssemblyInfo.cs
 C:\Bro\Personal\Application\ThirdEyeShots\Source\ThirdEyeShots.Web\obj\Debug\netcoreapp3.1\ThirdEyeShots.Web.csproj.CoreCompileInputs.cache
