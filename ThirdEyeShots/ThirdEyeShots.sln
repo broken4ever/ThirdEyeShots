@@ -3,7 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31702.126
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThirdEyeShots.Web", "Source\ThirdEyeShots.Web\ThirdEyeShots.Web.csproj", "{DFCA2657-396F-4998-AC53-F83055DB84AB}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFCA2657-396F-4998-AC53-F83055DB84AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFCA2657-396F-4998-AC53-F83055DB84AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFCA2657-396F-4998-AC53-F83055DB84AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFCA2657-396F-4998-AC53-F83055DB84AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
