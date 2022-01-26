@@ -1,6 +1,6 @@
 {
-  "/Default": {
-    "target": "https://localhost:5000",
+  "/Home": {
+    "target": "https://localhost:5001",
     "secure": false,
     "loglevel": "debug",
     "changeOrigin": true
