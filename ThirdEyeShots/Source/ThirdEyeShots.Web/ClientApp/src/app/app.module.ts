@@ -1,12 +1,15 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
-import { AppRoutingModule } from './app-routing.module';
+import { AppRoutingModule, RoutingComponents } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { TesHeaderComponent } from './modules/header/components/tes-header/tes-header.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    TesHeaderComponent,
+    RoutingComponents
   ],
   imports: [
     BrowserModule,

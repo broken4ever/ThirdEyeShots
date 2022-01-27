@@ -18,6 +18,7 @@ C:\Bro\Personal\Application\ThirdEyeShots\Source\ThirdEyeShots.Web\bin\Debug\net
 C:\Bro\Personal\Application\ThirdEyeShots\Source\ThirdEyeShots.Web\bin\Debug\netcoreapp3.1\ThirdEyeShots.Web.pdb
 C:\Bro\Personal\Application\ThirdEyeShots\Source\ThirdEyeShots.Web\bin\Debug\netcoreapp3.1\ThirdEyeShots.Web.Views.dll
 C:\Bro\Personal\Application\ThirdEyeShots\Source\ThirdEyeShots.Web\bin\Debug\netcoreapp3.1\ThirdEyeShots.Web.Views.pdb
+C:\Bro\Personal\Application\ThirdEyeShots\Source\ThirdEyeShots.Web\obj\Debug\netcoreapp3.1\ThirdEyeShots.Web.csprojAssemblyReference.cache
 C:\Bro\Personal\Application\ThirdEyeShots\Source\ThirdEyeShots.Web\obj\Debug\netcoreapp3.1\ThirdEyeShots.Web.AssemblyInfoInputs.cache
 C:\Bro\Personal\Application\ThirdEyeShots\Source\ThirdEyeShots.Web\obj\Debug\netcoreapp3.1\ThirdEyeShots.Web.AssemblyInfo.cs
 C:\Bro\Personal\Application\ThirdEyeShots\Source\ThirdEyeShots.Web\obj\Debug\netcoreapp3.1\ThirdEyeShots.Web.csproj.CoreCompileInputs.cache
@@ -38,4 +39,3 @@ C:\Bro\Personal\Application\ThirdEyeShots\Source\ThirdEyeShots.Web\obj\Debug\net
 C:\Bro\Personal\Application\ThirdEyeShots\Source\ThirdEyeShots.Web\obj\Debug\netcoreapp3.1\ThirdEyeShots.Web.pdb
 C:\Bro\Personal\Application\ThirdEyeShots\Source\ThirdEyeShots.Web\obj\Debug\netcoreapp3.1\ThirdEyeShots.Web.genruntimeconfig.cache
 C:\Bro\Personal\Application\ThirdEyeShots\Source\ThirdEyeShots.Web\obj\Debug\netcoreapp3.1\ThirdEyeShots.Web.csproj.CopyComplete
-C:\Bro\Personal\Application\ThirdEyeShots\Source\ThirdEyeShots.Web\obj\Debug\netcoreapp3.1\ThirdEyeShots.Web.csprojAssemblyReference.cache

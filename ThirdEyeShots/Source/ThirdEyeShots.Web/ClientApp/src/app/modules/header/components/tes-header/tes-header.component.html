@@ -1,0 +1,20 @@
+<header>
+  <!-- Navbar -->
+  <nav class="navbar navbar-expand-lg navbar-light mask-custom shadow-0">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#!" style="font-family:Algerian"><span style="color: #fff;">ThirdEye</span><span style="color: #5e9693;">Shots</span></a>
+      <button class="navbar-toggler" type="button" data-mdb-toggle="collapse"
+              data-mdb-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+              aria-label="Toggle navigation">
+        <i class="fas fa-bars"></i>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav me-auto">
+          <li class="nav-item" *ngFor="let headerMenu of headerMenuViewModel">
+            <a class="nav-link" href="#!" routerLink="/home">{{headerMenu.Menu}}</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+</header>
