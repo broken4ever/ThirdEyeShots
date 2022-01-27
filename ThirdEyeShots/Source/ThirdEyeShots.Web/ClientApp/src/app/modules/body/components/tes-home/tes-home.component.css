@@ -1,0 +1,16 @@
+h1{
+    font-family:Forte;
+}
+
+p {
+  font-family: Tahoma;
+  font-size: x-large;
+  font-weight: bold;
+}
+
+span {
+  font-family: 'Century Gothic';
+  color: teal;
+  font-size:x-large;
+  font-weight:bold;
+}

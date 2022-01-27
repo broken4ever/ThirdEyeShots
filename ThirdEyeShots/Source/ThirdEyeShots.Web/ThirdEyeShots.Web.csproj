@@ -5,6 +5,14 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Include="ClientApp\node_modules\aos\bower.json" />
+    <Content Include="ClientApp\node_modules\aos\demo\async.html" />
+    <Content Include="ClientApp\node_modules\aos\demo\css\styles.css" />
+    <Content Include="ClientApp\node_modules\aos\demo\simple.html" />
+    <Content Include="ClientApp\node_modules\aos\dist\aos.css" />
+    <Content Include="ClientApp\node_modules\aos\package.json" />
+    <Content Include="ClientApp\node_modules\aos\test\fixtures\aos-offset.fixture.html" />
+    <Content Include="ClientApp\node_modules\aos\test\fixtures\aos.fixture.html" />
     <Content Include="ClientApp\node_modules\bootstrap\dist\css\bootstrap-grid.css" />
     <Content Include="ClientApp\node_modules\bootstrap\dist\css\bootstrap-grid.min.css" />
     <Content Include="ClientApp\node_modules\bootstrap\dist\css\bootstrap-grid.rtl.css" />
@@ -22,6 +30,14 @@
     <Content Include="ClientApp\node_modules\bootstrap\dist\css\bootstrap.rtl.css" />
     <Content Include="ClientApp\node_modules\bootstrap\dist\css\bootstrap.rtl.min.css" />
     <Content Include="ClientApp\node_modules\bootstrap\package.json" />
+    <Content Include="ClientApp\node_modules\font-awesome\css\font-awesome.css" />
+    <Content Include="ClientApp\node_modules\font-awesome\css\font-awesome.min.css" />
+    <Content Include="ClientApp\node_modules\font-awesome\fonts\fontawesome-webfont.eot" />
+    <Content Include="ClientApp\node_modules\font-awesome\fonts\fontawesome-webfont.ttf" />
+    <Content Include="ClientApp\node_modules\font-awesome\fonts\fontawesome-webfont.woff" />
+    <Content Include="ClientApp\node_modules\font-awesome\fonts\FontAwesome.otf" />
+    <Content Include="ClientApp\node_modules\font-awesome\HELP-US-OUT.txt" />
+    <Content Include="ClientApp\node_modules\font-awesome\package.json" />
     <Content Include="ClientApp\node_modules\jquery\AUTHORS.txt" />
     <Content Include="ClientApp\node_modules\jquery\bower.json" />
     <Content Include="ClientApp\node_modules\jquery\external\sizzle\LICENSE.txt" />
@@ -32,13 +48,42 @@
   <ItemGroup>
     <Folder Include="ClientApp\dist\" />
     <Folder Include="ClientApp\src\app\modules\body\components\" />
-    <Folder Include="ClientApp\src\app\modules\footer\" />
+    <Folder Include="ClientApp\src\app\modules\footer\components\" />
     <Folder Include="ClientApp\src\app\modules\header\components\" />
     <Folder Include="ClientApp\src\app\modules\header\services\" />
     <Folder Include="wwwroot\" />
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="ClientApp\node_modules\aos\.babelrc" />
+    <None Include="ClientApp\node_modules\aos\.editorconfig" />
+    <None Include="ClientApp\node_modules\aos\.gitattributes" />
+    <None Include="ClientApp\node_modules\aos\.travis.yml" />
+    <None Include="ClientApp\node_modules\aos\CHANGELOG.md" />
+    <None Include="ClientApp\node_modules\aos\CONTRIBUTING.md" />
+    <None Include="ClientApp\node_modules\aos\dist\aos.js" />
+    <None Include="ClientApp\node_modules\aos\karma.conf.js" />
+    <None Include="ClientApp\node_modules\aos\LICENSE" />
+    <None Include="ClientApp\node_modules\aos\postcss.config.js" />
+    <None Include="ClientApp\node_modules\aos\README.md" />
+    <None Include="ClientApp\node_modules\aos\src\js\aos.js" />
+    <None Include="ClientApp\node_modules\aos\src\js\helpers\calculateOffset.js" />
+    <None Include="ClientApp\node_modules\aos\src\js\helpers\detector.js" />
+    <None Include="ClientApp\node_modules\aos\src\js\helpers\elements.js" />
+    <None Include="ClientApp\node_modules\aos\src\js\helpers\handleScroll.js" />
+    <None Include="ClientApp\node_modules\aos\src\js\helpers\prepare.js" />
+    <None Include="ClientApp\node_modules\aos\src\js\libs\observer.js" />
+    <None Include="ClientApp\node_modules\aos\src\js\libs\offset.js" />
+    <None Include="ClientApp\node_modules\aos\src\sass\aos.scss" />
+    <None Include="ClientApp\node_modules\aos\src\sass\_animations.scss" />
+    <None Include="ClientApp\node_modules\aos\src\sass\_core.scss" />
+    <None Include="ClientApp\node_modules\aos\src\sass\_easing.scss" />
+    <None Include="ClientApp\node_modules\aos\test\aos.spec.js" />
+    <None Include="ClientApp\node_modules\aos\test\calculateOffset.spec.js" />
+    <None Include="ClientApp\node_modules\aos\test\elements.spec.js" />
+    <None Include="ClientApp\node_modules\aos\test\index.js" />
+    <None Include="ClientApp\node_modules\aos\webpack.config.js" />
+    <None Include="ClientApp\node_modules\aos\yarn.lock" />
     <None Include="ClientApp\node_modules\bootstrap\dist\css\bootstrap-grid.css.map" />
     <None Include="ClientApp\node_modules\bootstrap\dist\css\bootstrap-grid.min.css.map" />
     <None Include="ClientApp\node_modules\bootstrap\dist\css\bootstrap-grid.rtl.css.map" />
@@ -211,6 +256,39 @@
     <None Include="ClientApp\node_modules\bootstrap\scss\_type.scss" />
     <None Include="ClientApp\node_modules\bootstrap\scss\_utilities.scss" />
     <None Include="ClientApp\node_modules\bootstrap\scss\_variables.scss" />
+    <None Include="ClientApp\node_modules\font-awesome\.npmignore" />
+    <None Include="ClientApp\node_modules\font-awesome\css\font-awesome.css.map" />
+    <None Include="ClientApp\node_modules\font-awesome\fonts\fontawesome-webfont.svg" />
+    <None Include="ClientApp\node_modules\font-awesome\fonts\fontawesome-webfont.woff2" />
+    <None Include="ClientApp\node_modules\font-awesome\less\animated.less" />
+    <None Include="ClientApp\node_modules\font-awesome\less\bordered-pulled.less" />
+    <None Include="ClientApp\node_modules\font-awesome\less\core.less" />
+    <None Include="ClientApp\node_modules\font-awesome\less\fixed-width.less" />
+    <None Include="ClientApp\node_modules\font-awesome\less\font-awesome.less" />
+    <None Include="ClientApp\node_modules\font-awesome\less\icons.less" />
+    <None Include="ClientApp\node_modules\font-awesome\less\larger.less" />
+    <None Include="ClientApp\node_modules\font-awesome\less\list.less" />
+    <None Include="ClientApp\node_modules\font-awesome\less\mixins.less" />
+    <None Include="ClientApp\node_modules\font-awesome\less\path.less" />
+    <None Include="ClientApp\node_modules\font-awesome\less\rotated-flipped.less" />
+    <None Include="ClientApp\node_modules\font-awesome\less\screen-reader.less" />
+    <None Include="ClientApp\node_modules\font-awesome\less\stacked.less" />
+    <None Include="ClientApp\node_modules\font-awesome\less\variables.less" />
+    <None Include="ClientApp\node_modules\font-awesome\README.md" />
+    <None Include="ClientApp\node_modules\font-awesome\scss\font-awesome.scss" />
+    <None Include="ClientApp\node_modules\font-awesome\scss\_animated.scss" />
+    <None Include="ClientApp\node_modules\font-awesome\scss\_bordered-pulled.scss" />
+    <None Include="ClientApp\node_modules\font-awesome\scss\_core.scss" />
+    <None Include="ClientApp\node_modules\font-awesome\scss\_fixed-width.scss" />
+    <None Include="ClientApp\node_modules\font-awesome\scss\_icons.scss" />
+    <None Include="ClientApp\node_modules\font-awesome\scss\_larger.scss" />
+    <None Include="ClientApp\node_modules\font-awesome\scss\_list.scss" />
+    <None Include="ClientApp\node_modules\font-awesome\scss\_mixins.scss" />
+    <None Include="ClientApp\node_modules\font-awesome\scss\_path.scss" />
+    <None Include="ClientApp\node_modules\font-awesome\scss\_rotated-flipped.scss" />
+    <None Include="ClientApp\node_modules\font-awesome\scss\_screen-reader.scss" />
+    <None Include="ClientApp\node_modules\font-awesome\scss\_stacked.scss" />
+    <None Include="ClientApp\node_modules\font-awesome\scss\_variables.scss" />
     <None Include="ClientApp\node_modules\jquery\dist\jquery.js" />
     <None Include="ClientApp\node_modules\jquery\dist\jquery.min.js" />
     <None Include="ClientApp\node_modules\jquery\dist\jquery.min.map" />
@@ -329,6 +407,9 @@
     <None Include="ClientApp\node_modules\jquery\src\var\support.js" />
     <None Include="ClientApp\node_modules\jquery\src\var\toString.js" />
     <None Include="ClientApp\node_modules\jquery\src\wrap.js" />
+    <None Include="ClientApp\node_modules\typed.js\lib\typed.js" />
+    <None Include="ClientApp\node_modules\typed.js\lib\typed.min.js" />
+    <None Include="ClientApp\node_modules\typed.js\lib\typed.min.js.map" />
   </ItemGroup>
 
   <ItemGroup>
