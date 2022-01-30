@@ -9,11 +9,11 @@ import { HeaderMenuViewModel } from '../../models/tes-header.model';
 })
 export class TesHeaderComponent implements OnInit {
 
-  headerMenuViewModel: HeaderMenuViewModel[] = null;
+  headerMenuViewModelList: HeaderMenuViewModel[] = null;
   constructor(private tesHeaderService: TesHeaderService) { }
 
   ngOnInit() {
-    this.headerMenuViewModel = this.tesHeaderService.getHeaderMenu();
+    this.headerMenuViewModelList = this.tesHeaderService.getHeaderMenu();
   }
 
 }

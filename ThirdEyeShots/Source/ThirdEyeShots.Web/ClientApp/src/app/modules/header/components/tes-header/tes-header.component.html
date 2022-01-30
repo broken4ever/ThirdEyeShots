@@ -12,7 +12,7 @@
         <div class="col">
           <div class="collapse navbar-collapse" id="navbarSupportedContent" style="text-align:right">
             <ul class="navbar-nav me-auto">
-              <li class="nav-item" *ngFor="let headerMenu of headerMenuViewModel">
+              <li class="nav-item" *ngFor="let headerMenu of headerMenuViewModelList">
                 <a class="nav-link" href="#!" routerLink="{{headerMenu.MenuRoute}}" style="font-weight:bold">{{headerMenu.Menu}}</a>
               </li>
             </ul>

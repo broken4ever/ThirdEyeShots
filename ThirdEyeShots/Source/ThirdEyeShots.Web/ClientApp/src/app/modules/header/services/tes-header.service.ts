@@ -6,15 +6,15 @@ import { HeaderMenuViewModel } from '../../header/models/tes-header.model';
   providedIn: 'root'
 })
 export class TesHeaderService {
-  headerMenuViewModel: HeaderMenuViewModel[] = null;
+  headerMenuViewModelList: HeaderMenuViewModel[] = null;
   constructor() {
-    this.headerMenuViewModel = ([
+    this.headerMenuViewModelList = ([
       { MeunuId: 1, Menu: 'HOME', MenuRoute:'/home' },
       { MeunuId: 1, Menu: 'BLOG', MenuRoute: '/blog'  }
     ])
   }
 
   getHeaderMenu(): HeaderMenuViewModel[] {
-    return this.headerMenuViewModel;
+    return this.headerMenuViewModelList;
   }
 }
