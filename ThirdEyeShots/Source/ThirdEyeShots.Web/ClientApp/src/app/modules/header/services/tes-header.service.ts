@@ -9,9 +9,8 @@ export class TesHeaderService {
   headerMenuViewModel: HeaderMenuViewModel[] = null;
   constructor() {
     this.headerMenuViewModel = ([
-      { MeunuId: 1, Menu: 'Home' },
-      { MeunuId: 1, Menu: 'About Me' },
-      { MeunuId: 1, Menu: 'Contact Us' }
+      { MeunuId: 1, Menu: 'HOME', MenuRoute:'/home' },
+      { MeunuId: 1, Menu: 'BLOG', MenuRoute: '/blog'  }
     ])
   }
 

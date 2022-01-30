@@ -47,6 +47,7 @@
 
   <ItemGroup>
     <Folder Include="ClientApp\dist\" />
+    <Folder Include="ClientApp\src\app\modules\blog\components\" />
     <Folder Include="ClientApp\src\app\modules\body\components\" />
     <Folder Include="ClientApp\src\app\modules\footer\components\" />
     <Folder Include="ClientApp\src\app\modules\header\components\" />
